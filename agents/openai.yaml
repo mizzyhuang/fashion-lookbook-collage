@@ -1,0 +1,7 @@
+interface:
+  display_name: "穿搭灵感拼贴"
+  short_description: "将服饰图转为多视角穿搭灵感拼贴视觉资产"
+  default_prompt: "Use $fashion-lookbook-collage to turn my uploaded apparel image into a multi-view lookbook collage."
+
+policy:
+  allow_implicit_invocation: true
